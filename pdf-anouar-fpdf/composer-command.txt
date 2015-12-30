@@ -1,0 +1,3 @@
+->cd \
+->cd <htdocs>\<laravel>
+->composer require anouar/fpdf
